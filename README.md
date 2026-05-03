@@ -67,5 +67,5 @@ The app will open at **http://localhost:8501**
 
 ## Demo
 
-https://www.youtube.com/shorts/2SMTdm\_neD4
+[https://www.youtube.com/shorts/2SMTdm\_neD4](https://youtube.com/shorts/2SMTdm_neD4?si=37GhtGQnmNI8euCW)
 
