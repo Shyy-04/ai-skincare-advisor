@@ -1,7 +1,7 @@
 # ✨ AI Skincare Advisor
 
 A beautiful Streamlit web app powered by **Groq API (LLaMA 3)** that analyzes your skin type and provides personalized skincare advice through an AI chatbot.
-
+![Interface Preview](interface.png) 
 
 
 ## 
